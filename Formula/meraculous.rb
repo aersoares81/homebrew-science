@@ -3,7 +3,7 @@ class Meraculous < Formula
   # doi "10.1371/journal.pone.0023501"
   # tag "bioinformatics
 
-  url "https://downloads.sourceforge.net/project/meraculous20/release-2.0.4.tgz"
+  url "https://sourceforge.net/projects/meraculous20/files/Meraculous-v2.2.5.tar.gz"
   sha256 "3a5fc76524db9ab5a4af88898f5d91957f53819b42e16d3913622eb5a0f35b9b"
   revision 1
 
